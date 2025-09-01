@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-poppins: 'Poppins', sans-serif;
+    --font-display: 'Moonet', sans-serif;
+}
+
+@font-face {
+    font-family: "Moonet";
+    src: url("./assets/fonts/font/Moonet-Regular.woff2") format("woff2");
+}
